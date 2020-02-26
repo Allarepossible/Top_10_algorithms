@@ -1,1 +1,5 @@
-new conflict from master
+
+Want to understand the principe of rebase and merge
+new_change from new_branch
+change from master
+resolve conflict from website interface
