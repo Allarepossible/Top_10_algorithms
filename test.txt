@@ -1,2 +1,1 @@
-Want to understand the principe of rebase and merge
-change from master
+new conflict from master
